@@ -1,13 +1,10 @@
 # IHC - Interação Humano Computador 🤖👱
-
-
-<h2 align="center"> 8° Heurística - Estética e design minimalista</h2>
   
-1- A página do site Empresa São José não segue a heurística 8 pois as vagas estão muito juntas e com muitos links abaixo de cada vaga.
+1- O site Emprega São José fere a heurística 8 de Nielsen - **Estética e Design Minimalista** pois além dos links para as vagas estarem muito juntas, abaixo de cada uma há 5 links para redes sociais que poluem de forma repetitiva a interface. Ela também fere a 7º Heurística de Nielsen, **Eficiência e Flexibilidade de Uso** pois não há formas de se pesquisar ou filtrar uma vaga específica, o usuário deve descer a tela inteira com centenas de vagas para encontrar a que deseja.
 
-![empregasaojose](https://github.com/JaovitoP/bertoti/assets/115598741/0fb70691-ca85-47eb-87bb-6b666f2f2473)
+![EmpregaSaoJose](https://github.com/JaovitoP/bertoti/assets/115598741/567bcf84-2123-4ef5-ac7f-e62c6ad6b022)
 
-2- O site Especialista em TI não segue a heurística 8 poisalém de utilizar muitas cores diferentes em cada div, as informações estão tyodas juntas nas mesmas linhas ao invés de colunas, o que dificulta a visualização do usuário.
+2- O site Especialista em TI fere a heurística 8 de Nielsen- **Estética e Design Minimalista** pois além de utilizar muitas cores diferentes em cada div, sendo algumas dessas cores muito grosseiras e que dificultaam a legibilidade dos textos, as informações também  estão todas juntas nas mesmas linhas ao invés de colunas, o que dificulta a visualização do usuário.
 
 ![image](https://github.com/JaovitoP/bertoti/assets/115598741/667379a4-5cbc-43dc-bfb1-1bbb1cef9f82)
 
@@ -22,8 +19,6 @@
 5- O site Pessoas Online não segue a heurística 8, pois o site não se adapta para diferentes tamanhos de telas, ou seja, não é responsivo.
 
 ![image](https://github.com/JaovitoP/bertoti/assets/115598741/2431c21d-0016-4c1c-ac73-40fccd698896)
-
-<h2 align="center"> 10º Heurística - Ajuda e documentação</h2>
 
 1- O site Siga não segue a heurística 10 pois são apresentadas abreviações com porcentagens de progresso do aluno, porém em nenhum lugar do site é explicado o que significam estas abreviações e nem links para algum site ou documento com explicações.
 
